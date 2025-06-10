@@ -1,6 +1,6 @@
-# Hi there 👋  
-Welcome to my GitHub profile! I'm **Livhuwani Khathutshelo Masindi**.  
-A **Junior Software Developer** with a strong knowlegde in **.NET Core** and solid experience in **JavaScript**.
+# 💻 Junior Software Developer | .NET Enthusiast | JavaScript Explorer 🚀👋  
+
+- Strong knowlegde in **.NET Core** and solid experience in **JavaScript**.
 
 ---
 
