@@ -69,7 +69,7 @@
 
 ---
 
-# 📄 My CV
+# 📄 My Resume
 
 You can [download my Resume here](./lk_masindi.pdf).
 
