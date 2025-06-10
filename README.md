@@ -1,7 +1,8 @@
-# Hi there 👋
 # 💻 Junior Software Developer | .NET Core Enthusiast 🚀
 
-- Strong knowlegde in **.NET Core** and solid experience in **JavaScript**.
+- Strong skillset in **.NET Core** and solid experience in **JavaScript**.
+
+- Proficient in **.NET Core**, with solid experience in **JavaScript**.
 
 ---
 
