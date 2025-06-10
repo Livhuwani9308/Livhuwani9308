@@ -71,7 +71,7 @@
 
 # 📄 My CV
 
-You can [download my CV here](./lk_masindi.pdf).
+You can [download my Resume here](./lk_masindi.pdf).
 
 ---
 
