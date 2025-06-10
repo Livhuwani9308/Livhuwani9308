@@ -1,4 +1,4 @@
-# 💻 Junior Software Developer | .NET Enthusiast | JavaScript Explorer 🚀👋  
+# 💻 Junior Software Developer | .NET Core Enthusiast 🚀👋  
 
 - Strong knowlegde in **.NET Core** and solid experience in **JavaScript**.
 
