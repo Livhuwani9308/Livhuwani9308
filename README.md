@@ -1,7 +1,4 @@
 # 💻 Junior Software Developer | .NET Core Enthusiast 🚀
-
-- Strong skillset in **.NET Core** and solid experience in **JavaScript**.
-
 - Proficient in **.NET Core**, with solid experience in **JavaScript**.
 
 ---
