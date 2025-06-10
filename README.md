@@ -55,7 +55,7 @@
 
 - **[Goodfolx](https://www.goodfolx.co.za)** — A wood works digital portfolio focused on crafting meaningful web experiences.  
 
-⚙️ Built with: [Angular](https://angular.dev), [PHPMailer](https://github.com/PHPMailer/PHPMailer) 
+⚙️ Built with: Angular, [PHPMailer](https://github.com/PHPMailer/PHPMailer) 
 
 📱 Features: Responsive design, animations, secure contact form  
 
