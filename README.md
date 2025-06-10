@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/da8d0522-5db9-451b-a8f7-e1288ba5dd9c" alt="header" style="width:100%; max-width:100%;">
-</p>
+</p>  
+
 # 💻 Junior Software Developer | .NET Core Enthusiast 🚀
 - Proficient in **.NET Core**, with solid experience in **JavaScript**.
 
