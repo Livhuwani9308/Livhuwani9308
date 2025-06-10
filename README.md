@@ -27,13 +27,11 @@
 
 ### Development Focus
 
-🖥️ Full-Stack Web Applications
-
-🧩 Scalable and Maintainable Systems
+🧩 Full-Stack Web Applications
 
 🛒 E-commerce Solutions
 
-📱 Responsive Web Design
+🖥️ Responsive Web Design
 
 🌐 Web Hosting
 
@@ -50,6 +48,20 @@
 ![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivhuwaniKM&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivhuwaniKM&layout=compact&langs_count=8)
+
+---
+
+## 🚀 Personal Projects
+
+- **[Goodfolx](https://www.goodfolx.co.za)** — A wood works digital portfolio focused on crafting meaningful web experiences.  
+
+⚙️ Built with: [Angular](https://angular.dev), [PHPMailer](https://github.com/PHPMailer/PHPMailer) 
+
+📱 Features: Responsive design, animations, secure contact form  
+
+🚀 Hosted on: [Render.com](https://render.com) with CI/CD  
+
+🔍 Optimized for: Mobile & SEO
 
 ---
 
