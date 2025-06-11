@@ -70,12 +70,6 @@
 
 ---
 
-# 📄 My Resume
-
-You can [download my Resume here](./lk_masindi_resume.pdf).
-
----
-
 ## ⚡ Fun Fact
 
 I love what I do — every line of code is a step closer to building something meaningful.
