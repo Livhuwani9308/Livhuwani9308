@@ -58,7 +58,7 @@
 
 ## 🚀 Personal Projects
 
-- **[Goodfolx]** — A wood works digital portfolio focused on crafting meaningful web experiences.  
+- **[Groodflxx]** — A wood works digital portfolio focused on crafting meaningful web experiences.  
 
 ⚙️ Built with: Angular, [PHPMailer](https://github.com/PHPMailer/PHPMailer) 
 
