@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92cf9335-e1b6-4ee1-828e-2019735f7b0d" alt="header" style="width:100%; max-width:100%;">
+  <img src="https://github.com/user-attachments/assets/01b630df-4ee6-48d1-95f6-d33506e9fea9" alt="header" style="width:100%; max-width:100%;">
 </p>
 
 # 💻 Junior Software Developer | .NET Core Enthusiast 🚀
