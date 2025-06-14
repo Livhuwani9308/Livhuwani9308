@@ -11,7 +11,7 @@
 
 ### 🌱 Currently Learning
 - **Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
-- **Docker**: Containerization technology that helps package applications and their dependencies for consistent environments across development and production.
+- **Docker**: A container platform that packages apps with their dependencies, ensuring consistency across development and production.
 - Open Source Projects and Personal Development
 
 ---
