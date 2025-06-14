@@ -13,7 +13,7 @@
 - **Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
 - **Docker**: A container platform that packages apps with their dependencies, ensuring consistency across development and production.
 - **Node.js & Express.js**: Backend JavaScript tools for building fast, scalable web APIs.
-- Open Source Projects and Personal Development
+- **Open Source & Personal Development**: Actively contributing to open source while sharpening skills through real-world projects and new technologies.
 
 ---
 
