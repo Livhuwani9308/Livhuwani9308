@@ -50,9 +50,9 @@
 
 ## 📊 GitHub Stats
 
-![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=LivhuwaniKM&show_icons=true&theme=radical)
+![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Livhuwani9308&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LivhuwaniKM&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&langs_count=8)
 
 ---
 
