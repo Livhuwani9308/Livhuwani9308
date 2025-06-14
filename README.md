@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/da8d0522-5db9-451b-a8f7-e1288ba5dd9c" alt="header" style="width:100%; max-width:100%;">
-</p>  ![welcome_to_my_profile](https://github.com/user-attachments/assets/db1ebc25-b121-452b-9dc1-262d420d431f)
+  <img src="https://github.com/user-attachments/assets/db1ebc25-b121-452b-9dc1-262d420d431f" alt="header" style="width:100%; max-width:100%;">
+</p>
 
 
 # 💻 Junior Software Developer | .NET Core Enthusiast 🚀
