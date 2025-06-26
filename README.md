@@ -1,5 +1,5 @@
+![jewnjewjkew e](https://github.com/user-attachments/assets/305c65d4-1bc3-49cb-9343-41df149362db)
 
-![Uploading 240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png…]()
 
 # 💻 Full-Stack Software Developer | .NET Core Enthusiast 🚀
 Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including **E-commerce**, **CRM**, and **Real Estate**.
