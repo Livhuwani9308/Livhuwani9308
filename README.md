@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="[https://github.com/user-attachments/assets/01b630df-4ee6-48d1-95f6-d33506e9fea9](https://github.com/user-attachments/assets/7a5d2c5d-234b-4cee-8997-ceeab561d3f3" alt="header" style="width:100%; max-width:100%;">
-  ![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/user-attachments/assets/7a5d2c5d-234b-4cee-8997-ceeab561d3f3)
 
-</p>
+![Uploading 240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png…]()
 
 # 💻 Full-Stack Software Developer | .NET Core Enthusiast 🚀
 Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including **E-commerce**, **CRM**, and **Real Estate**.
