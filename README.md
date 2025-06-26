@@ -1,15 +1,13 @@
 ![jewnjewjkew e](https://github.com/user-attachments/assets/305c65d4-1bc3-49cb-9343-41df149362db)
 
 
-# 💻 Full-Stack Software Developer | .NET Core Enthusiast 🚀
+
+<h1 align="center">Hi 👋, I'm Livhuwani Masindi</h1>
 Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including **E-commerce**, **CRM**, and **Real Estate**.
 
----
-
 ## 🌱 Learning Journey:
-- **Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
 
----
+**Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
 
 ## 🔗 Languages and Tools:
 <p align="left">
@@ -39,26 +37,20 @@ Software Engineer with proven experience delivering scalable, high-performance a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"       alt="MongoDB"     height="50"/>
 </p>
 
+## 📬 Connect with me:
 
-### Development Focus
+<p align="left">
+  <!-- Gmail (2020 multi‑color logo) -->
+  <a href="mailto:lkmasindi1208@gmail.com" target="_blank">
+  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Gmail_icon_(2020).svg" alt="Gmail" height="45"/>
+</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/livhuwani-masindi-57959a226" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50"/>
+  </a>
+</p>
 
-🧩 Full-Stack Web Applications
-
-🛒 E-commerce Solutions
-
-🖥️ Responsive Web Design
-
-🌐 Web Hosting
-
----
-
-## 📬 How to Reach Me:
-
-<p> <a href="mailto:lkmasindi1208@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/> </a> <a href="https://www.linkedin.com/in/livhuwani-masindi-57959a226" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> </p>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 ![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Livhuwani9308&show_icons=true&theme=radical)
 
