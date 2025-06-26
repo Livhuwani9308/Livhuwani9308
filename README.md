@@ -2,8 +2,8 @@
   <img src="https://github.com/user-attachments/assets/01b630df-4ee6-48d1-95f6-d33506e9fea9" alt="header" style="width:100%; max-width:100%;">
 </p>
 
-# 💻 Junior Software Developer | .NET Core Enthusiast 🚀
-- Proficient in **.NET Core**, with solid experience in **JavaScript**.
+# 💻 Full-Stack Software Developer | .NET Core Enthusiast 🚀
+Full-Stack Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including **E-commerce**, **CRM**, and **Real Estate**.
 
 ---
 
