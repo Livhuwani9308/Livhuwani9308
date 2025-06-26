@@ -6,17 +6,12 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 ---
 
-## 📚 Learning Journey
-
-### 🌱 Currently Learning
+## 🌱 Learning Journey:
 - **Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
-- **Docker**: A container platform that packages apps with their dependencies, ensuring consistency across development and production.
-- **Node.js & Express.js**: Backend JavaScript tools for building fast, scalable web APIs.
-- **Open Source & Personal Development**: Actively contributing to open source while sharpening skills through real-world projects and new technologies.
 
 ---
 
-## 🔗 Languages and Tools
+## 🔗 Languages and Tools:
 <p align="left">
   <!-- Markup & Styling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"       alt="HTML5" height="50"/>
