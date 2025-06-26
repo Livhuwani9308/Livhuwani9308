@@ -37,7 +37,7 @@ Software Engineer with proven experience delivering scalable, high-performance a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"       alt="MongoDB"     height="50"/>
 </p>
 
-## 📬 Connect with me:
+## 🌐 Connect with me:
 
 <p align="left">
   <!-- Gmail (2020 multi‑color logo) -->
@@ -56,8 +56,6 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&langs_count=8)
 
----
-
 ## 🚀 Personal Projects
 
 - **[GoodFolx](https://wwww.goodfolx.co.za)** — A wood works digital portfolio focused on crafting meaningful web experiences.  
@@ -69,8 +67,6 @@ Software Engineer with proven experience delivering scalable, high-performance a
 🚀 Hosted on: [Render.com](https://render.com) with CI/CD  
 
 🔍 Optimized for: Mobile & SEO
-
----
 
 ## ⚡ Fun Fact
 
