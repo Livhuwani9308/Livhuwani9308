@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Livhuwani Masindi</h1>
-Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including **E-commerce**, **CRM**, and **Real Estate**.
+Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including <strong>E-commerce</strong>, <strong>CRM</strong>, and <strong>Real Estate</strong>.
 
 ## 🌱 Learning Journey:
 
