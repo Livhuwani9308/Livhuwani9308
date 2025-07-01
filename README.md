@@ -60,13 +60,21 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 - **[GoodFolx](https://wwww.goodfolx.co.za)** — A wood works digital portfolio focused on crafting meaningful web experiences.  
 
-⚙️ Built with: Angular, [PHPMailer](https://github.com/PHPMailer/PHPMailer) 
+⚙️ Built with Angular 17, Dockerized, and deployed via [Render](https://render.com).
 
-📱 Features: Responsive design, animations, secure contact form  
+📱 [PHPMailer](https://github.com/PHPMailer/PHPMailer) integration for secure, real-time lead capture.
 
-🚀 Hosted on: [Render.com](https://render.com) with CI/CD  
+🚀 CI/CD pipeline using GitHub Actions.
 
-🔍 Optimized for: Mobile & SEO
+- **[Developer Portfolio](https://livhuwani-dev-portfolio.vercel.app)** - Personal portfolio showcasing my experience, skills, and projects.
+
+⚙️ Frontend: Angular (**[Vercel](https://vercel.com)**-hosted) with GitHub Actions CI/CD.
+
+📱 Backend: Node.js + Express with RESTful APIs deployed to [Render](https://render.com)
+
+🚀 Database: **[MongoDB](https://www.mongodb.com)** storing and managing all project metadata.
+
+
 
 ## ⚡ Fun Fact
 
