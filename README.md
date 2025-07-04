@@ -7,7 +7,7 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 ## 🌱 Learning Journey:
 
-**Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks.
+**Azure**: Cloud fundamentals through **Azure AZ-900 Fundamentals** and **AZ-204 Developer** certification tracks (Key Vault, SQL Database, Blob Storage).
 
 ## 🔗 Languages and Tools:
 <p align="left">
