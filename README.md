@@ -58,7 +58,7 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 ## 🚀 Personal Projects
 
-- **[GoodFolx](https://wwww.goodfolx.co.za)** — A wood works digital portfolio focused on crafting meaningful web experiences.  
+- **[GoodFolx](https://wwww.goodfolx.co.za)** — Where wood meets web — showcasing carpentry with heart and precision.  
 
 ⚙️ Built with Angular 17, Dockerized, and deployed via [Render](https://render.com).
 
