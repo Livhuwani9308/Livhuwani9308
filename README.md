@@ -1,13 +1,29 @@
-![jewnjewjkew e](https://github.com/user-attachments/assets/305c65d4-1bc3-49cb-9343-41df149362db)
+![6696e67266865696768743d33303026636f6c6f723d303a3165393066662c3130303a30306266666626746578743d48692c25323049276d253230533449](https://github.com/user-attachments/assets/220c26fb-5867-4750-9528-011f014c2cec)
 
-
-
-<h1 align="center">Hi 👋, I'm Livhuwani Masindi</h1>
 Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including <strong>E-commerce</strong>, <strong>CRM</strong>, and <strong>Real Estate</strong>.
 
-## 🌱 Learning Journey:
+## 🌱 Azure Learning Journey (AZ‑204)
 
 **Azure**: Cloud fundamentals through **AZ-204 Developer** certification tracks (Key Vault, Service Bus, SQL Database, Blob Storage).
+
+### ✅ Free Tier Services
+- Azure Functions – serverless compute with free monthly executions  
+- Azure App Service (Free Plan) – host .NET/Angular apps with limited resources  
+- Azure Static Web Apps – free hosting with GitHub Actions integration  
+- Azure Key Vault (Developer Tier) – secure secrets management with limited free usage  
+- Azure Service Bus (Basic Tier) – messaging service with free namespace option  
+- Azure DevOps (Free Plan) – CI/CD pipelines and repos  
+- Azure Monitor & Application Insights (Free Units) – telemetry and logging  
+- Azure Container Instances (Free Quota) – run containers without VM overhead  
+- Azure Cognitive Services (Free Tier) – AI APIs with limited free calls  
+- Azure Storage (Free Quota) – Blob, Queue, Table with limited GB/month  
+
+### 💼 Paid Services (Explored Beyond Free Tier)
+- Azure SQL Database  
+- Azure Cosmos DB  
+- Azure Blob Storage (Beyond Free Quota)  
+- Azure App Service (Standard/Premium Plans)  
+- Azure Virtual Machines  
 
 ## 🔗 Languages and Tools:
 <p align="left">
@@ -54,28 +70,13 @@ Software Engineer with proven experience delivering scalable, high-performance a
 
 ![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Livhuwani9308&show_icons=true&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Livhuwani9308&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&langs_count=8)
 
 ## 🚀 Personal Projects
 
-- **[GoodFolx](https://wwww.goodfolx.co.za)** — Where wood meets web — showcasing carpentry with heart and precision.  
-
-⚙️ Built with Angular 17, Dockerized, and deployed via [Render](https://render.com).
-
-📱 [PHPMailer](https://github.com/PHPMailer/PHPMailer) integration for secure, real-time lead capture.
-
-🚀 CI/CD pipeline using GitHub Actions.
-
 - **[Developer Portfolio](https://livhuwani-dev-portfolio.vercel.app)** - Personal portfolio showcasing my experience, skills, and projects.
-
-⚙️ Frontend: Angular (**[Vercel](https://vercel.com)**-hosted) with GitHub Actions CI/CD.
-
-📱 Backend: Node.js + Express with RESTful APIs deployed to [Render](https://render.com)
-
-🚀 Database: **[MongoDB](https://www.mongodb.com)** storing and managing all project metadata.
-
-
-
-## ⚡ Fun Fact
-
-I love what I do — every line of code is a step closer to building something meaningful.
