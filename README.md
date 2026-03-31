@@ -1,6 +1,8 @@
-![6696e67266865696768743d33303026636f6c6f723d303a3165393066662c3130303a30306266666626746578743d48692c25323049276d253230533449](https://github.com/user-attachments/assets/220c26fb-5867-4750-9528-011f014c2cec)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/220c26fb-5867-4750-9528-011f014c2cec" alt="Banner" width="100%"/>
+</p>
 
-Software Engineer with proven experience delivering scalable, high-performance applications using ASP.NET Core, C#, Angular, and SQL Server. Skilled in designing secure RESTful APIs, implementing JWT authentication, and optimizing system architecture across sectors including <strong>E-commerce</strong>, <strong>CRM</strong>, and <strong>Real Estate</strong>.
+Experienced Software Engineer specializing in building scalable, high‑performance applications with ASP.NET Core, C#, Angular, and SQL Server. Proficient in designing secure RESTful APIs, implementing JWT‑based authentication, and optimizing system architectures. My work spans diverse industries including E‑commerce, CRM, and Real Estate, where I’ve consistently delivered robust, reliable solutions.
 
 ## 🌱 Azure Learning Journey (AZ‑204)
 
