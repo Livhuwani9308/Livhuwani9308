@@ -82,7 +82,6 @@ Experienced Software Engineer specializing in building scalable, high‑performa
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Livhuwani9308&theme=radical&row=1&column=6)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&langs_count=8)
 
 ## 🚀 Personal Projects
