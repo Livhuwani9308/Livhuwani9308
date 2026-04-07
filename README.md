@@ -84,11 +84,7 @@ Experienced Software Engineer specializing in building scalable, high‑performa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Livhuwani9308&layout=compact&langs_count=8)
 
-
-
-![Profile Details](https://raw.githubusercontent.com/Livhuwani9308/Livhuwani9308/master/github-profile-summary-cards-2/default/0-profile-details.svg)
-![Languages](https://raw.githubusercontent.com/Livhuwani9308/Livhuwani9308/main/profile-summary-card-output/default/1-repos-per-language.svg)
-![Stats](https://raw.githubusercontent.com/Livhuwani9308/Livhuwani9308/main/profile-summary-card-output/default/3-stats.svg)
+[![Livhuwani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Livhuwani9308)](https://github.com/Livhuwani9308/github-readme-stats)
 
 
 ## 🚀 Personal Projects
