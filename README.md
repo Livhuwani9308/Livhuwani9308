@@ -16,8 +16,7 @@ Experienced Software Engineer specializing in building scalable, high‑performa
 - Azure Service Bus (Basic Tier) – messaging service with free namespace option  
 - Azure DevOps (Free Plan) – CI/CD pipelines and repos  
 - Azure Monitor & Application Insights (Free Units) – telemetry and logging  
-- Azure Container Instances (Free Quota) – run containers without VM overhead  
-- Azure Cognitive Services (Free Tier) – AI APIs with limited free calls  
+- Azure Container Instances (Free Quota) – run containers without VM overhead   
 - Azure Storage (Free Quota) – Blob, Queue, Table with limited GB/month  
 
 ### 💼 Paid Services (Explored Beyond Free Tier)
